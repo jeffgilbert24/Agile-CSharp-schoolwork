@@ -5,3 +5,9 @@ C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapte
 C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.csproj.CoreCompileInputs.cache
 C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.exe
 C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.pdb
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter5Employee\Chapter5Employee\bin\Debug\Chapter5Employee.exe.config
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter5Employee\Chapter5Employee\bin\Debug\Chapter5Employee.exe
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter5Employee\Chapter5Employee\bin\Debug\Chapter5Employee.pdb
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.csproj.CoreCompileInputs.cache
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.exe
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.pdb

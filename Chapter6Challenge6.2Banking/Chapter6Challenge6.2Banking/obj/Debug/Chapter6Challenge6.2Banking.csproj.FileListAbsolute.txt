@@ -1,0 +1,2 @@
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter6Challenge6.2Banking\Chapter6Challenge6.2Banking\obj\Debug\Chapter6Challenge6.2Banking.csproj.AssemblyReference.cache
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\Chapter6Challenge6.2Banking\Chapter6Challenge6.2Banking\obj\Debug\Chapter6Challenge6.2Banking.csproj.CoreCompileInputs.cache

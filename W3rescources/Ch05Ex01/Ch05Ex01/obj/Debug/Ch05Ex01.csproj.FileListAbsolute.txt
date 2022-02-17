@@ -5,3 +5,10 @@ C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\Ch05Ex01\C
 C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.csproj.CoreCompileInputs.cache
 C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.exe
 C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.pdb
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.exe.config
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.exe
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.pdb
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.csproj.AssemblyReference.cache
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.csproj.CoreCompileInputs.cache
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.exe
+E:\Backup BHI comp\Documents\Jeff's schoolwork\Columbia College\CISS201 AGILE\W3rescources\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.pdb
