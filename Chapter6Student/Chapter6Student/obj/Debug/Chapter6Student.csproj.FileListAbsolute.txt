@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter6Student\Chapter6Student\obj\Debug\Chapter6Student.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter6Student\Chapter6Student\obj\Debug\Chapter6Student.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter6Student\Chapter6Student\bin\Debug\Chapter6Student.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter6Student\Chapter6Student\bin\Debug\Chapter6Student.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter6Student\Chapter6Student\bin\Debug\Chapter6Student.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter6Student\Chapter6Student\obj\Debug\Chapter6Student.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter6Student\Chapter6Student\obj\Debug\Chapter6Student.pdb

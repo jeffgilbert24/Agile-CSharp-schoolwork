@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram19SumAndTriple\W3exerciseProgram19SumAndTriple\obj\Debug\W3exerciseProgram19SumAndTriple.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram19SumAndTriple\W3exerciseProgram19SumAndTriple\obj\Debug\W3exerciseProgram19SumAndTriple.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram19SumAndTriple\W3exerciseProgram19SumAndTriple\bin\Debug\W3exerciseProgram19SumAndTriple.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram19SumAndTriple\W3exerciseProgram19SumAndTriple\bin\Debug\W3exerciseProgram19SumAndTriple.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram19SumAndTriple\W3exerciseProgram19SumAndTriple\bin\Debug\W3exerciseProgram19SumAndTriple.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram19SumAndTriple\W3exerciseProgram19SumAndTriple\obj\Debug\W3exerciseProgram19SumAndTriple.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram19SumAndTriple\W3exerciseProgram19SumAndTriple\obj\Debug\W3exerciseProgram19SumAndTriple.pdb

@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex02ExchanggingDataFunction\Ch06Ex02ExchanggingDataFunction\obj\Debug\Ch06Ex02ExchanggingDataFunction.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex02ExchanggingDataFunction\Ch06Ex02ExchanggingDataFunction\obj\Debug\Ch06Ex02ExchanggingDataFunction.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex02ExchanggingDataFunction\Ch06Ex02ExchanggingDataFunction\bin\Debug\Ch06Ex02ExchanggingDataFunction.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex02ExchanggingDataFunction\Ch06Ex02ExchanggingDataFunction\bin\Debug\Ch06Ex02ExchanggingDataFunction.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex02ExchanggingDataFunction\Ch06Ex02ExchanggingDataFunction\bin\Debug\Ch06Ex02ExchanggingDataFunction.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex02ExchanggingDataFunction\Ch06Ex02ExchanggingDataFunction\obj\Debug\Ch06Ex02ExchanggingDataFunction.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex02ExchanggingDataFunction\Ch06Ex02ExchanggingDataFunction\obj\Debug\Ch06Ex02ExchanggingDataFunction.pdb

@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2MultiplyProgram\Chapter4Challenge4.2MultiplyProgram\obj\Debug\Chapter4Challenge4.2MultiplyProgram.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2MultiplyProgram\Chapter4Challenge4.2MultiplyProgram\obj\Debug\Chapter4Challenge4.2MultiplyProgram.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2MultiplyProgram\Chapter4Challenge4.2MultiplyProgram\bin\Debug\Chapter4Challenge4.2MultiplyProgram.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2MultiplyProgram\Chapter4Challenge4.2MultiplyProgram\bin\Debug\Chapter4Challenge4.2MultiplyProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2MultiplyProgram\Chapter4Challenge4.2MultiplyProgram\bin\Debug\Chapter4Challenge4.2MultiplyProgram.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2MultiplyProgram\Chapter4Challenge4.2MultiplyProgram\obj\Debug\Chapter4Challenge4.2MultiplyProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2MultiplyProgram\Chapter4Challenge4.2MultiplyProgram\obj\Debug\Chapter4Challenge4.2MultiplyProgram.pdb

@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter3ClassStatistics\CHapter3ClassStatistics\bin\Debug\CHapter3ClassStatistics.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter3ClassStatistics\CHapter3ClassStatistics\bin\Debug\CHapter3ClassStatistics.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter3ClassStatistics\CHapter3ClassStatistics\bin\Debug\CHapter3ClassStatistics.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter3ClassStatistics\CHapter3ClassStatistics\obj\Debug\CHapter3ClassStatistics.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter3ClassStatistics\CHapter3ClassStatistics\obj\Debug\CHapter3ClassStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter3ClassStatistics\CHapter3ClassStatistics\obj\Debug\CHapter3ClassStatistics.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter3ClassStatistics\CHapter3ClassStatistics\obj\Debug\CHapter3ClassStatistics.pdb

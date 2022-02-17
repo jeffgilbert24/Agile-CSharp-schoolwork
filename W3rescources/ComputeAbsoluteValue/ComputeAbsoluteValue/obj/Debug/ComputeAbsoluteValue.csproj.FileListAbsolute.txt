@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\ComputeAbsoluteValue\ComputeAbsoluteValue\obj\Debug\ComputeAbsoluteValue.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\ComputeAbsoluteValue\ComputeAbsoluteValue\obj\Debug\ComputeAbsoluteValue.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\ComputeAbsoluteValue\ComputeAbsoluteValue\bin\Debug\ComputeAbsoluteValue.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\ComputeAbsoluteValue\ComputeAbsoluteValue\bin\Debug\ComputeAbsoluteValue.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\ComputeAbsoluteValue\ComputeAbsoluteValue\bin\Debug\ComputeAbsoluteValue.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\ComputeAbsoluteValue\ComputeAbsoluteValue\obj\Debug\ComputeAbsoluteValue.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\ComputeAbsoluteValue\ComputeAbsoluteValue\obj\Debug\ComputeAbsoluteValue.pdb

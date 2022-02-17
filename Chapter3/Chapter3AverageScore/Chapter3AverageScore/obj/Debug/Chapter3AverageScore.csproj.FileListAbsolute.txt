@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3AverageScore\Chapter3AverageScore\bin\Debug\Chapter3AverageScore.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3AverageScore\Chapter3AverageScore\bin\Debug\Chapter3AverageScore.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3AverageScore\Chapter3AverageScore\bin\Debug\Chapter3AverageScore.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3AverageScore\Chapter3AverageScore\obj\Debug\Chapter3AverageScore.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3AverageScore\Chapter3AverageScore\obj\Debug\Chapter3AverageScore.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3AverageScore\Chapter3AverageScore\obj\Debug\Chapter3AverageScore.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3AverageScore\Chapter3AverageScore\obj\Debug\Chapter3AverageScore.pdb

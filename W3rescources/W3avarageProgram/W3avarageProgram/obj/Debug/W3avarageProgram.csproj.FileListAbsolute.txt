@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3avarageProgram\W3avarageProgram\bin\Debug\W3avarageProgram.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3avarageProgram\W3avarageProgram\bin\Debug\W3avarageProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3avarageProgram\W3avarageProgram\bin\Debug\W3avarageProgram.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3avarageProgram\W3avarageProgram\obj\Debug\W3avarageProgram.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3avarageProgram\W3avarageProgram\obj\Debug\W3avarageProgram.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3avarageProgram\W3avarageProgram\obj\Debug\W3avarageProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3avarageProgram\W3avarageProgram\obj\Debug\W3avarageProgram.pdb

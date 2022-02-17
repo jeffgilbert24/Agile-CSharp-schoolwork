@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4SumandDifference\Chapter4SumandDifference\obj\Debug\Chapter4SumandDifference.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4SumandDifference\Chapter4SumandDifference\obj\Debug\Chapter4SumandDifference.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4SumandDifference\Chapter4SumandDifference\bin\Debug\Chapter4SumandDifference.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4SumandDifference\Chapter4SumandDifference\bin\Debug\Chapter4SumandDifference.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4SumandDifference\Chapter4SumandDifference\bin\Debug\Chapter4SumandDifference.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4SumandDifference\Chapter4SumandDifference\obj\Debug\Chapter4SumandDifference.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4SumandDifference\Chapter4SumandDifference\obj\Debug\Chapter4SumandDifference.pdb

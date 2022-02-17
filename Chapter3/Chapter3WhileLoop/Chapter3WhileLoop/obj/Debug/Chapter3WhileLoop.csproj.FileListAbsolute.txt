@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3WhileLoop\Chapter3WhileLoop\bin\Debug\Chapter3WhileLoop.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3WhileLoop\Chapter3WhileLoop\bin\Debug\Chapter3WhileLoop.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3WhileLoop\Chapter3WhileLoop\bin\Debug\Chapter3WhileLoop.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3WhileLoop\Chapter3WhileLoop\obj\Debug\Chapter3WhileLoop.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3WhileLoop\Chapter3WhileLoop\obj\Debug\Chapter3WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3WhileLoop\Chapter3WhileLoop\obj\Debug\Chapter3WhileLoop.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3WhileLoop\Chapter3WhileLoop\obj\Debug\Chapter3WhileLoop.pdb

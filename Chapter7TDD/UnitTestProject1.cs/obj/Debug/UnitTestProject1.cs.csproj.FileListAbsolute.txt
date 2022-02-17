@@ -1,0 +1,17 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\UnitTestProject1.cs.dll
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\UnitTestProject1.cs.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Chapter7TDD.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Chapter7TDD.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Chapter7TDD.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\obj\Debug\UnitTestProject1.cs.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\obj\Debug\UnitTestProject1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\obj\Debug\UnitTestProject1.cs.csproj.CopyComplete
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\obj\Debug\UnitTestProject1.cs.dll
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\UnitTestProject1.cs\obj\Debug\UnitTestProject1.cs.pdb

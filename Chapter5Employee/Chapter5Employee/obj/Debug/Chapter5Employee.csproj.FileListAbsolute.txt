@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\bin\Debug\Chapter5Employee.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\bin\Debug\Chapter5Employee.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\bin\Debug\Chapter5Employee.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Employee\Chapter5Employee\obj\Debug\Chapter5Employee.pdb

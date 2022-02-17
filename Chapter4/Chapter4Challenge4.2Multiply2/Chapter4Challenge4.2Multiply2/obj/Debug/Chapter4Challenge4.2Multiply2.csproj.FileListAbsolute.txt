@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2Multiply2\Chapter4Challenge4.2Multiply2\bin\Debug\Chapter4Challenge4.2Multiply2.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2Multiply2\Chapter4Challenge4.2Multiply2\bin\Debug\Chapter4Challenge4.2Multiply2.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2Multiply2\Chapter4Challenge4.2Multiply2\bin\Debug\Chapter4Challenge4.2Multiply2.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2Multiply2\Chapter4Challenge4.2Multiply2\obj\Debug\Chapter4Challenge4.2Multiply2.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2Multiply2\Chapter4Challenge4.2Multiply2\obj\Debug\Chapter4Challenge4.2Multiply2.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2Multiply2\Chapter4Challenge4.2Multiply2\obj\Debug\Chapter4Challenge4.2Multiply2.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.2Multiply2\Chapter4Challenge4.2Multiply2\obj\Debug\Chapter4Challenge4.2Multiply2.pdb

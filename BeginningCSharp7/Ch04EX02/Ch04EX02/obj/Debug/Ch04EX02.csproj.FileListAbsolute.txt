@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Ch04EX02\Ch04EX02\bin\Debug\Ch04EX02.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Ch04EX02\Ch04EX02\bin\Debug\Ch04EX02.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Ch04EX02\Ch04EX02\bin\Debug\Ch04EX02.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Ch04EX02\Ch04EX02\obj\Debug\Ch04EX02.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Ch04EX02\Ch04EX02\obj\Debug\Ch04EX02.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Ch04EX02\Ch04EX02\obj\Debug\Ch04EX02.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Ch04EX02\Ch04EX02\obj\Debug\Ch04EX02.pdb

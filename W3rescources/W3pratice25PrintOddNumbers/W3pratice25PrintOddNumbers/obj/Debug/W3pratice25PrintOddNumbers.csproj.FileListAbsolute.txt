@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers\obj\Debug\W3pratice25PrintOddNumbers.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers\obj\Debug\W3pratice25PrintOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers\bin\Debug\W3pratice25PrintOddNumbers.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers\bin\Debug\W3pratice25PrintOddNumbers.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers\bin\Debug\W3pratice25PrintOddNumbers.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers\obj\Debug\W3pratice25PrintOddNumbers.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers\obj\Debug\W3pratice25PrintOddNumbers.pdb

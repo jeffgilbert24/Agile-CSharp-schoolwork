@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\EvenNumbersProgram\EvenNumbersProgram\obj\Debug\EvenNumbersProgram.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\EvenNumbersProgram\EvenNumbersProgram\obj\Debug\EvenNumbersProgram.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\EvenNumbersProgram\EvenNumbersProgram\bin\Debug\EvenNumbersProgram.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\EvenNumbersProgram\EvenNumbersProgram\bin\Debug\EvenNumbersProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\EvenNumbersProgram\EvenNumbersProgram\bin\Debug\EvenNumbersProgram.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\EvenNumbersProgram\EvenNumbersProgram\obj\Debug\EvenNumbersProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\EvenNumbersProgram\EvenNumbersProgram\obj\Debug\EvenNumbersProgram.pdb

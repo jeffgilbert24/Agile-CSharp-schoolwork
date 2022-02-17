@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Challenge5.1\Chapter5Challenge5.1\obj\Debug\Chapter5Challenge5.1.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Challenge5.1\Chapter5Challenge5.1\obj\Debug\Chapter5Challenge5.1.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Challenge5.1\Chapter5Challenge5.1\bin\Debug\Chapter5Challenge5.1.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Challenge5.1\Chapter5Challenge5.1\bin\Debug\Chapter5Challenge5.1.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Challenge5.1\Chapter5Challenge5.1\bin\Debug\Chapter5Challenge5.1.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Challenge5.1\Chapter5Challenge5.1\obj\Debug\Chapter5Challenge5.1.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter5Challenge5.1\Chapter5Challenge5.1\obj\Debug\Chapter5Challenge5.1.pdb

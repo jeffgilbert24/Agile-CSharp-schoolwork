@@ -1,0 +1,6 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.2TotalRainFall\Chapter3Challenge3.2TotalRainFall\bin\Debug\Chapter3Challenge3.2TotalRainFall.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.2TotalRainFall\Chapter3Challenge3.2TotalRainFall\bin\Debug\Chapter3Challenge3.2TotalRainFall.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.2TotalRainFall\Chapter3Challenge3.2TotalRainFall\bin\Debug\Chapter3Challenge3.2TotalRainFall.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.2TotalRainFall\Chapter3Challenge3.2TotalRainFall\obj\Debug\Chapter3Challenge3.2TotalRainFall.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.2TotalRainFall\Chapter3Challenge3.2TotalRainFall\obj\Debug\Chapter3Challenge3.2TotalRainFall.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.2TotalRainFall\Chapter3Challenge3.2TotalRainFall\obj\Debug\Chapter3Challenge3.2TotalRainFall.pdb

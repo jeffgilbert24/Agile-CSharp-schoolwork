@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multiplyloopnumber\W3multiplyloopnumber\obj\Debug\W3multiplyloopnumber.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multiplyloopnumber\W3multiplyloopnumber\obj\Debug\W3multiplyloopnumber.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multiplyloopnumber\W3multiplyloopnumber\bin\Debug\W3multiplyloopnumber.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multiplyloopnumber\W3multiplyloopnumber\bin\Debug\W3multiplyloopnumber.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multiplyloopnumber\W3multiplyloopnumber\bin\Debug\W3multiplyloopnumber.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multiplyloopnumber\W3multiplyloopnumber\obj\Debug\W3multiplyloopnumber.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multiplyloopnumber\W3multiplyloopnumber\obj\Debug\W3multiplyloopnumber.pdb

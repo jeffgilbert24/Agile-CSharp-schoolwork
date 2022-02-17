@@ -1,0 +1,6 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ChangeStringToLower\W3ChangeStringToLower\bin\Debug\W3ChangeStringToLower.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ChangeStringToLower\W3ChangeStringToLower\bin\Debug\W3ChangeStringToLower.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ChangeStringToLower\W3ChangeStringToLower\bin\Debug\W3ChangeStringToLower.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ChangeStringToLower\W3ChangeStringToLower\obj\Debug\W3ChangeStringToLower.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ChangeStringToLower\W3ChangeStringToLower\obj\Debug\W3ChangeStringToLower.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ChangeStringToLower\W3ChangeStringToLower\obj\Debug\W3ChangeStringToLower.pdb

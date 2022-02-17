@@ -1,0 +1,6 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ExerciseProgram18Bool\W3ExerciseProgram18Bool\bin\Debug\W3ExerciseProgram18Bool.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ExerciseProgram18Bool\W3ExerciseProgram18Bool\bin\Debug\W3ExerciseProgram18Bool.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ExerciseProgram18Bool\W3ExerciseProgram18Bool\bin\Debug\W3ExerciseProgram18Bool.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ExerciseProgram18Bool\W3ExerciseProgram18Bool\obj\Debug\W3ExerciseProgram18Bool.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ExerciseProgram18Bool\W3ExerciseProgram18Bool\obj\Debug\W3ExerciseProgram18Bool.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3ExerciseProgram18Bool\W3ExerciseProgram18Bool\obj\Debug\W3ExerciseProgram18Bool.pdb

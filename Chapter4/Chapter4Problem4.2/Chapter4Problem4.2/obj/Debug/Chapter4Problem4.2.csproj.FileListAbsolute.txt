@@ -1,0 +1,6 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.2\Chapter4Problem4.2\bin\Debug\Chapter4Problem4.2.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.2\Chapter4Problem4.2\bin\Debug\Chapter4Problem4.2.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.2\Chapter4Problem4.2\bin\Debug\Chapter4Problem4.2.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.2\Chapter4Problem4.2\obj\Debug\Chapter4Problem4.2.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.2\Chapter4Problem4.2\obj\Debug\Chapter4Problem4.2.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.2\Chapter4Problem4.2\obj\Debug\Chapter4Problem4.2.pdb

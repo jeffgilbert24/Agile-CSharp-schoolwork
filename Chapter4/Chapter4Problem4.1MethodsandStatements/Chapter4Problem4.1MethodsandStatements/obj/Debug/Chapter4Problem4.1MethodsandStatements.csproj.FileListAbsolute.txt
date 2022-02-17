@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.1MethodsandStatements\Chapter4Problem4.1MethodsandStatements\bin\Debug\Chapter4Problem4.1MethodsandStatements.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.1MethodsandStatements\Chapter4Problem4.1MethodsandStatements\bin\Debug\Chapter4Problem4.1MethodsandStatements.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.1MethodsandStatements\Chapter4Problem4.1MethodsandStatements\bin\Debug\Chapter4Problem4.1MethodsandStatements.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.1MethodsandStatements\Chapter4Problem4.1MethodsandStatements\obj\Debug\Chapter4Problem4.1MethodsandStatements.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.1MethodsandStatements\Chapter4Problem4.1MethodsandStatements\obj\Debug\Chapter4Problem4.1MethodsandStatements.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.1MethodsandStatements\Chapter4Problem4.1MethodsandStatements\obj\Debug\Chapter4Problem4.1MethodsandStatements.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Problem4.1MethodsandStatements\Chapter4Problem4.1MethodsandStatements\obj\Debug\Chapter4Problem4.1MethodsandStatements.pdb

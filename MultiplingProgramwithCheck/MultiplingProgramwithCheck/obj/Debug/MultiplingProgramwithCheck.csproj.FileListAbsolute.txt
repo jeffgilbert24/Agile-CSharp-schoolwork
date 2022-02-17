@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\MultiplingProgramwithCheck\MultiplingProgramwithCheck\obj\Debug\MultiplingProgramwithCheck.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\MultiplingProgramwithCheck\MultiplingProgramwithCheck\obj\Debug\MultiplingProgramwithCheck.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\MultiplingProgramwithCheck\MultiplingProgramwithCheck\bin\Debug\MultiplingProgramwithCheck.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\MultiplingProgramwithCheck\MultiplingProgramwithCheck\bin\Debug\MultiplingProgramwithCheck.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\MultiplingProgramwithCheck\MultiplingProgramwithCheck\bin\Debug\MultiplingProgramwithCheck.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\MultiplingProgramwithCheck\MultiplingProgramwithCheck\obj\Debug\MultiplingProgramwithCheck.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\MultiplingProgramwithCheck\MultiplingProgramwithCheck\obj\Debug\MultiplingProgramwithCheck.pdb

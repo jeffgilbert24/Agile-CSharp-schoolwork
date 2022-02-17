@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPrice3\Chapter7RetailPrice3\bin\Debug\Chapter7RetailPrice3.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPrice3\Chapter7RetailPrice3\bin\Debug\Chapter7RetailPrice3.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPrice3\Chapter7RetailPrice3\bin\Debug\Chapter7RetailPrice3.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPrice3\Chapter7RetailPrice3\obj\Debug\Chapter7RetailPrice3.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPrice3\Chapter7RetailPrice3\obj\Debug\Chapter7RetailPrice3.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPrice3\Chapter7RetailPrice3\obj\Debug\Chapter7RetailPrice3.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPrice3\Chapter7RetailPrice3\obj\Debug\Chapter7RetailPrice3.pdb

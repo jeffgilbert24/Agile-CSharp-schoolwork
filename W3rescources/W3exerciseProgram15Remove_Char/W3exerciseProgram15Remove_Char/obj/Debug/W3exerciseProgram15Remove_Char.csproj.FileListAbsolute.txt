@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram15Remove_Char\W3exerciseProgram15Remove_Char\obj\Debug\W3exerciseProgram15Remove_Char.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram15Remove_Char\W3exerciseProgram15Remove_Char\obj\Debug\W3exerciseProgram15Remove_Char.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram15Remove_Char\W3exerciseProgram15Remove_Char\bin\Debug\W3exerciseProgram15Remove_Char.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram15Remove_Char\W3exerciseProgram15Remove_Char\bin\Debug\W3exerciseProgram15Remove_Char.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram15Remove_Char\W3exerciseProgram15Remove_Char\bin\Debug\W3exerciseProgram15Remove_Char.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram15Remove_Char\W3exerciseProgram15Remove_Char\obj\Debug\W3exerciseProgram15Remove_Char.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3exerciseProgram15Remove_Char\W3exerciseProgram15Remove_Char\obj\Debug\W3exerciseProgram15Remove_Char.pdb

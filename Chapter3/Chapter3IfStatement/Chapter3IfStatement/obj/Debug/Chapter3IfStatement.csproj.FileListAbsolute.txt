@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3IfStatement\Chapter3IfStatement\bin\Debug\Chapter3IfStatement.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3IfStatement\Chapter3IfStatement\bin\Debug\Chapter3IfStatement.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3IfStatement\Chapter3IfStatement\bin\Debug\Chapter3IfStatement.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3IfStatement\Chapter3IfStatement\obj\Debug\Chapter3IfStatement.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3IfStatement\Chapter3IfStatement\obj\Debug\Chapter3IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3IfStatement\Chapter3IfStatement\obj\Debug\Chapter3IfStatement.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3IfStatement\Chapter3IfStatement\obj\Debug\Chapter3IfStatement.pdb

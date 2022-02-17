@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.1AverageRainFall\Chapter3Challenge3.1AverageRainFall\obj\Debug\Chapter3Challenge3.1AverageRainFall.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.1AverageRainFall\Chapter3Challenge3.1AverageRainFall\obj\Debug\Chapter3Challenge3.1AverageRainFall.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.1AverageRainFall\Chapter3Challenge3.1AverageRainFall\bin\Debug\Chapter3Challenge3.1AverageRainFall.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.1AverageRainFall\Chapter3Challenge3.1AverageRainFall\bin\Debug\Chapter3Challenge3.1AverageRainFall.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.1AverageRainFall\Chapter3Challenge3.1AverageRainFall\bin\Debug\Chapter3Challenge3.1AverageRainFall.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.1AverageRainFall\Chapter3Challenge3.1AverageRainFall\obj\Debug\Chapter3Challenge3.1AverageRainFall.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter3Challenge3.1AverageRainFall\Chapter3Challenge3.1AverageRainFall\obj\Debug\Chapter3Challenge3.1AverageRainFall.pdb

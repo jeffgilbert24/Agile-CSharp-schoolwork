@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\Chapter7TDD\bin\Debug\Chapter7TDD.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\Chapter7TDD\bin\Debug\Chapter7TDD.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\Chapter7TDD\bin\Debug\Chapter7TDD.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\Chapter7TDD\obj\Debug\Chapter7TDD.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\Chapter7TDD\obj\Debug\Chapter7TDD.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\Chapter7TDD\obj\Debug\Chapter7TDD.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7TDD\Chapter7TDD\obj\Debug\Chapter7TDD.pdb

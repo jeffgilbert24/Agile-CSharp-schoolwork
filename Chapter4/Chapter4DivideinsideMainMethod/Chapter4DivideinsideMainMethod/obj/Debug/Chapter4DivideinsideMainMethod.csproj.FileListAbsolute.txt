@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DivideinsideMainMethod\Chapter4DivideinsideMainMethod\bin\Debug\Chapter4DivideinsideMainMethod.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DivideinsideMainMethod\Chapter4DivideinsideMainMethod\bin\Debug\Chapter4DivideinsideMainMethod.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DivideinsideMainMethod\Chapter4DivideinsideMainMethod\bin\Debug\Chapter4DivideinsideMainMethod.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DivideinsideMainMethod\Chapter4DivideinsideMainMethod\obj\Debug\Chapter4DivideinsideMainMethod.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DivideinsideMainMethod\Chapter4DivideinsideMainMethod\obj\Debug\Chapter4DivideinsideMainMethod.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DivideinsideMainMethod\Chapter4DivideinsideMainMethod\obj\Debug\Chapter4DivideinsideMainMethod.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DivideinsideMainMethod\Chapter4DivideinsideMainMethod\obj\Debug\Chapter4DivideinsideMainMethod.pdb

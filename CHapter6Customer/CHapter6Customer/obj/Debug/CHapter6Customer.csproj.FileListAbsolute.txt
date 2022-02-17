@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter6Customer\CHapter6Customer\obj\Debug\CHapter6Customer.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter6Customer\CHapter6Customer\obj\Debug\CHapter6Customer.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter6Customer\CHapter6Customer\bin\Debug\CHapter6Customer.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter6Customer\CHapter6Customer\bin\Debug\CHapter6Customer.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter6Customer\CHapter6Customer\bin\Debug\CHapter6Customer.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter6Customer\CHapter6Customer\obj\Debug\CHapter6Customer.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\CHapter6Customer\CHapter6Customer\obj\Debug\CHapter6Customer.pdb

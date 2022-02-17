@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4ReturnValuePlus\Chapter4ReturnValuePlus\obj\Debug\Chapter4ReturnValuePlus.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4ReturnValuePlus\Chapter4ReturnValuePlus\obj\Debug\Chapter4ReturnValuePlus.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4ReturnValuePlus\Chapter4ReturnValuePlus\bin\Debug\Chapter4ReturnValuePlus.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4ReturnValuePlus\Chapter4ReturnValuePlus\bin\Debug\Chapter4ReturnValuePlus.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4ReturnValuePlus\Chapter4ReturnValuePlus\bin\Debug\Chapter4ReturnValuePlus.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4ReturnValuePlus\Chapter4ReturnValuePlus\obj\Debug\Chapter4ReturnValuePlus.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4ReturnValuePlus\Chapter4ReturnValuePlus\obj\Debug\Chapter4ReturnValuePlus.pdb

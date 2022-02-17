@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W311ageComplamentProgram\W311ageComplamentProgram\bin\Debug\W311ageComplamentProgram.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W311ageComplamentProgram\W311ageComplamentProgram\bin\Debug\W311ageComplamentProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W311ageComplamentProgram\W311ageComplamentProgram\bin\Debug\W311ageComplamentProgram.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W311ageComplamentProgram\W311ageComplamentProgram\obj\Debug\W311ageComplamentProgram.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W311ageComplamentProgram\W311ageComplamentProgram\obj\Debug\W311ageComplamentProgram.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W311ageComplamentProgram\W311ageComplamentProgram\obj\Debug\W311ageComplamentProgram.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W311ageComplamentProgram\W311ageComplamentProgram\obj\Debug\W311ageComplamentProgram.pdb

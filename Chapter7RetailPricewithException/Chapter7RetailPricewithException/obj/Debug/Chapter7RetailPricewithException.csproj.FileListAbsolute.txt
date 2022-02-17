@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPricewithException\Chapter7RetailPricewithException\obj\Debug\Chapter7RetailPricewithException.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPricewithException\Chapter7RetailPricewithException\bin\Debug\Chapter7RetailPricewithException.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPricewithException\Chapter7RetailPricewithException\bin\Debug\Chapter7RetailPricewithException.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPricewithException\Chapter7RetailPricewithException\bin\Debug\Chapter7RetailPricewithException.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPricewithException\Chapter7RetailPricewithException\obj\Debug\Chapter7RetailPricewithException.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPricewithException\Chapter7RetailPricewithException\obj\Debug\Chapter7RetailPricewithException.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter7RetailPricewithException\Chapter7RetailPricewithException\obj\Debug\Chapter7RetailPricewithException.csprojAssemblyReference.cache

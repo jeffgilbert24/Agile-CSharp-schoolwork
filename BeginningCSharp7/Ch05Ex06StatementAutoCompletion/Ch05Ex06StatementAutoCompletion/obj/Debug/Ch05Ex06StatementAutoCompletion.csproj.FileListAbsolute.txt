@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex06StatementAutoCompletion\Ch05Ex06StatementAutoCompletion\obj\Debug\Ch05Ex06StatementAutoCompletion.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex06StatementAutoCompletion\Ch05Ex06StatementAutoCompletion\obj\Debug\Ch05Ex06StatementAutoCompletion.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex06StatementAutoCompletion\Ch05Ex06StatementAutoCompletion\bin\Debug\Ch05Ex06StatementAutoCompletion.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex06StatementAutoCompletion\Ch05Ex06StatementAutoCompletion\bin\Debug\Ch05Ex06StatementAutoCompletion.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex06StatementAutoCompletion\Ch05Ex06StatementAutoCompletion\bin\Debug\Ch05Ex06StatementAutoCompletion.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex06StatementAutoCompletion\Ch05Ex06StatementAutoCompletion\obj\Debug\Ch05Ex06StatementAutoCompletion.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex06StatementAutoCompletion\Ch05Ex06StatementAutoCompletion\obj\Debug\Ch05Ex06StatementAutoCompletion.pdb

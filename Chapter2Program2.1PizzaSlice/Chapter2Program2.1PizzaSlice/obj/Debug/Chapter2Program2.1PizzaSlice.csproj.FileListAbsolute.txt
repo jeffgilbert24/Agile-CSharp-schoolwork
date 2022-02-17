@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter2Program2.1PizzaSlice\Chapter2Program2.1PizzaSlice\obj\Debug\Chapter2Program2.1PizzaSlice.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter2Program2.1PizzaSlice\Chapter2Program2.1PizzaSlice\obj\Debug\Chapter2Program2.1PizzaSlice.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter2Program2.1PizzaSlice\Chapter2Program2.1PizzaSlice\bin\Debug\Chapter2Program2.1PizzaSlice.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter2Program2.1PizzaSlice\Chapter2Program2.1PizzaSlice\bin\Debug\Chapter2Program2.1PizzaSlice.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter2Program2.1PizzaSlice\Chapter2Program2.1PizzaSlice\bin\Debug\Chapter2Program2.1PizzaSlice.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter2Program2.1PizzaSlice\Chapter2Program2.1PizzaSlice\obj\Debug\Chapter2Program2.1PizzaSlice.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter2Program2.1PizzaSlice\Chapter2Program2.1PizzaSlice\obj\Debug\Chapter2Program2.1PizzaSlice.pdb

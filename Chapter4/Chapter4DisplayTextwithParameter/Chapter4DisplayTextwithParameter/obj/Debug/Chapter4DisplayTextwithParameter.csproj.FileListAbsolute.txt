@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DisplayTextwithParameter\Chapter4DisplayTextwithParameter\obj\Debug\Chapter4DisplayTextwithParameter.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DisplayTextwithParameter\Chapter4DisplayTextwithParameter\obj\Debug\Chapter4DisplayTextwithParameter.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DisplayTextwithParameter\Chapter4DisplayTextwithParameter\bin\Debug\Chapter4DisplayTextwithParameter.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DisplayTextwithParameter\Chapter4DisplayTextwithParameter\bin\Debug\Chapter4DisplayTextwithParameter.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DisplayTextwithParameter\Chapter4DisplayTextwithParameter\bin\Debug\Chapter4DisplayTextwithParameter.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DisplayTextwithParameter\Chapter4DisplayTextwithParameter\obj\Debug\Chapter4DisplayTextwithParameter.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4DisplayTextwithParameter\Chapter4DisplayTextwithParameter\obj\Debug\Chapter4DisplayTextwithParameter.pdb

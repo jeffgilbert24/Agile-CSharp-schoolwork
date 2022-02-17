@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex04CommandLineArgue\Ch06Ex04CommandLineArgue\bin\Debug\Ch06Ex04CommandLineArgue.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex04CommandLineArgue\Ch06Ex04CommandLineArgue\bin\Debug\Ch06Ex04CommandLineArgue.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex04CommandLineArgue\Ch06Ex04CommandLineArgue\bin\Debug\Ch06Ex04CommandLineArgue.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex04CommandLineArgue\Ch06Ex04CommandLineArgue\obj\Debug\Ch06Ex04CommandLineArgue.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex04CommandLineArgue\Ch06Ex04CommandLineArgue\obj\Debug\Ch06Ex04CommandLineArgue.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex04CommandLineArgue\Ch06Ex04CommandLineArgue\obj\Debug\Ch06Ex04CommandLineArgue.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex04CommandLineArgue\Ch06Ex04CommandLineArgue\obj\Debug\Ch06Ex04CommandLineArgue.pdb

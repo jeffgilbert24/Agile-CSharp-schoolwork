@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3numbersmultipliedthenAdded\W3numbersmultipliedthenAdded\obj\Debug\W3numbersmultipliedthenAdded.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3numbersmultipliedthenAdded\W3numbersmultipliedthenAdded\obj\Debug\W3numbersmultipliedthenAdded.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3numbersmultipliedthenAdded\W3numbersmultipliedthenAdded\bin\Debug\W3numbersmultipliedthenAdded.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3numbersmultipliedthenAdded\W3numbersmultipliedthenAdded\bin\Debug\W3numbersmultipliedthenAdded.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3numbersmultipliedthenAdded\W3numbersmultipliedthenAdded\bin\Debug\W3numbersmultipliedthenAdded.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3numbersmultipliedthenAdded\W3numbersmultipliedthenAdded\obj\Debug\W3numbersmultipliedthenAdded.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3numbersmultipliedthenAdded\W3numbersmultipliedthenAdded\obj\Debug\W3numbersmultipliedthenAdded.pdb

@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3BasicExercise14tempconver\W3BasicExercise14tempconver\bin\Debug\W3BasicExercise14tempconver.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3BasicExercise14tempconver\W3BasicExercise14tempconver\bin\Debug\W3BasicExercise14tempconver.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3BasicExercise14tempconver\W3BasicExercise14tempconver\bin\Debug\W3BasicExercise14tempconver.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3BasicExercise14tempconver\W3BasicExercise14tempconver\obj\Debug\W3BasicExercise14tempconver.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3BasicExercise14tempconver\W3BasicExercise14tempconver\obj\Debug\W3BasicExercise14tempconver.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3BasicExercise14tempconver\W3BasicExercise14tempconver\obj\Debug\W3BasicExercise14tempconver.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3BasicExercise14tempconver\W3BasicExercise14tempconver\obj\Debug\W3BasicExercise14tempconver.pdb

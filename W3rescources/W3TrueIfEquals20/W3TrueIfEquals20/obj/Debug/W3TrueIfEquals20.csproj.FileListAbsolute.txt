@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3TrueIfEquals20\W3TrueIfEquals20\obj\Debug\W3TrueIfEquals20.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3TrueIfEquals20\W3TrueIfEquals20\obj\Debug\W3TrueIfEquals20.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3TrueIfEquals20\W3TrueIfEquals20\bin\Debug\W3TrueIfEquals20.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3TrueIfEquals20\W3TrueIfEquals20\bin\Debug\W3TrueIfEquals20.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3TrueIfEquals20\W3TrueIfEquals20\bin\Debug\W3TrueIfEquals20.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3TrueIfEquals20\W3TrueIfEquals20\obj\Debug\W3TrueIfEquals20.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3TrueIfEquals20\W3TrueIfEquals20\obj\Debug\W3TrueIfEquals20.pdb

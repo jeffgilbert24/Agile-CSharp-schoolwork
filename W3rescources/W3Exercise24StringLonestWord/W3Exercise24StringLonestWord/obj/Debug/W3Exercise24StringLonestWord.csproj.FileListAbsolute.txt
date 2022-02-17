@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Exercise24StringLonestWord\W3Exercise24StringLonestWord\bin\Debug\W3Exercise24StringLonestWord.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Exercise24StringLonestWord\W3Exercise24StringLonestWord\bin\Debug\W3Exercise24StringLonestWord.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Exercise24StringLonestWord\W3Exercise24StringLonestWord\bin\Debug\W3Exercise24StringLonestWord.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Exercise24StringLonestWord\W3Exercise24StringLonestWord\obj\Debug\W3Exercise24StringLonestWord.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Exercise24StringLonestWord\W3Exercise24StringLonestWord\obj\Debug\W3Exercise24StringLonestWord.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Exercise24StringLonestWord\W3Exercise24StringLonestWord\obj\Debug\W3Exercise24StringLonestWord.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Exercise24StringLonestWord\W3Exercise24StringLonestWord\obj\Debug\W3Exercise24StringLonestWord.pdb

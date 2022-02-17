@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.1Dispaly school\Chapter4Challenge4.1Dispaly school\obj\Debug\Chapter4Challenge4.1Dispaly school.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.1Dispaly school\Chapter4Challenge4.1Dispaly school\obj\Debug\Chapter4Challenge4.1Dispaly school.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.1Dispaly school\Chapter4Challenge4.1Dispaly school\bin\Debug\Chapter4Challenge4.1Dispaly school.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.1Dispaly school\Chapter4Challenge4.1Dispaly school\bin\Debug\Chapter4Challenge4.1Dispaly school.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.1Dispaly school\Chapter4Challenge4.1Dispaly school\bin\Debug\Chapter4Challenge4.1Dispaly school.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.1Dispaly school\Chapter4Challenge4.1Dispaly school\obj\Debug\Chapter4Challenge4.1Dispaly school.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\Chapter4Challenge4.1Dispaly school\Chapter4Challenge4.1Dispaly school\obj\Debug\Chapter4Challenge4.1Dispaly school.pdb

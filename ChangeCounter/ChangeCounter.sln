@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeCounter", "ChangeCounter\ChangeCounter.csproj", "{4C60E9D9-FFFB-426E-836B-7642B0ED50AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C60E9D9-FFFB-426E-836B-7642B0ED50AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C60E9D9-FFFB-426E-836B-7642B0ED50AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C60E9D9-FFFB-426E-836B-7642B0ED50AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C60E9D9-FFFB-426E-836B-7642B0ED50AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD5FEEA6-E99D-48F2-BBC2-B5A980ED5D65}
+	EndGlobalSection
+EndGlobal

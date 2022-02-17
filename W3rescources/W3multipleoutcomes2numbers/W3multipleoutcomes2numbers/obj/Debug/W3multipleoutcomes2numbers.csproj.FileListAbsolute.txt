@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multipleoutcomes2numbers\W3multipleoutcomes2numbers\bin\Debug\W3multipleoutcomes2numbers.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multipleoutcomes2numbers\W3multipleoutcomes2numbers\bin\Debug\W3multipleoutcomes2numbers.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multipleoutcomes2numbers\W3multipleoutcomes2numbers\bin\Debug\W3multipleoutcomes2numbers.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multipleoutcomes2numbers\W3multipleoutcomes2numbers\obj\Debug\W3multipleoutcomes2numbers.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multipleoutcomes2numbers\W3multipleoutcomes2numbers\obj\Debug\W3multipleoutcomes2numbers.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multipleoutcomes2numbers\W3multipleoutcomes2numbers\obj\Debug\W3multipleoutcomes2numbers.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3multipleoutcomes2numbers\W3multipleoutcomes2numbers\obj\Debug\W3multipleoutcomes2numbers.pdb

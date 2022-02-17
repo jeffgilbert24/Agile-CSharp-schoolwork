@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3BasicExercise14tempconver", "W3BasicExercise14tempconver\W3BasicExercise14tempconver.csproj", "{B655BE50-0F17-45C0-B088-1823C332BFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B655BE50-0F17-45C0-B088-1823C332BFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B655BE50-0F17-45C0-B088-1823C332BFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B655BE50-0F17-45C0-B088-1823C332BFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B655BE50-0F17-45C0-B088-1823C332BFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D742B5CD-9CCE-47E8-8718-5F11D57A9861}
+	EndGlobalSection
+EndGlobal

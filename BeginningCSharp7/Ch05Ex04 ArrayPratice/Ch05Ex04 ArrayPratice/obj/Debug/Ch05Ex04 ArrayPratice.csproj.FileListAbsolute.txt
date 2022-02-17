@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex04 ArrayPratice\Ch05Ex04 ArrayPratice\bin\Debug\Ch05Ex04 ArrayPratice.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex04 ArrayPratice\Ch05Ex04 ArrayPratice\bin\Debug\Ch05Ex04 ArrayPratice.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex04 ArrayPratice\Ch05Ex04 ArrayPratice\bin\Debug\Ch05Ex04 ArrayPratice.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex04 ArrayPratice\Ch05Ex04 ArrayPratice\obj\Debug\Ch05Ex04 ArrayPratice.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex04 ArrayPratice\Ch05Ex04 ArrayPratice\obj\Debug\Ch05Ex04 ArrayPratice.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex04 ArrayPratice\Ch05Ex04 ArrayPratice\obj\Debug\Ch05Ex04 ArrayPratice.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch05Ex04 ArrayPratice\Ch05Ex04 ArrayPratice\obj\Debug\Ch05Ex04 ArrayPratice.pdb

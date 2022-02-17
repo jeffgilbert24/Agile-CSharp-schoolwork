@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Basicexercise12\W3Basicexercise12\bin\Debug\W3Basicexercise12.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Basicexercise12\W3Basicexercise12\bin\Debug\W3Basicexercise12.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Basicexercise12\W3Basicexercise12\bin\Debug\W3Basicexercise12.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Basicexercise12\W3Basicexercise12\obj\Debug\W3Basicexercise12.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Basicexercise12\W3Basicexercise12\obj\Debug\W3Basicexercise12.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Basicexercise12\W3Basicexercise12\obj\Debug\W3Basicexercise12.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\W3rescources\W3Basicexercise12\W3Basicexercise12\obj\Debug\W3Basicexercise12.pdb

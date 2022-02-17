@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3pratice25PrintOddNumbers", "W3pratice25PrintOddNumbers\W3pratice25PrintOddNumbers.csproj", "{6A698029-4365-461F-BD98-AE53D0C1CD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A698029-4365-461F-BD98-AE53D0C1CD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A698029-4365-461F-BD98-AE53D0C1CD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A698029-4365-461F-BD98-AE53D0C1CD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A698029-4365-461F-BD98-AE53D0C1CD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C85FF8F-1C9F-4F68-8CA0-7380BD011C47}
+	EndGlobalSection
+EndGlobal

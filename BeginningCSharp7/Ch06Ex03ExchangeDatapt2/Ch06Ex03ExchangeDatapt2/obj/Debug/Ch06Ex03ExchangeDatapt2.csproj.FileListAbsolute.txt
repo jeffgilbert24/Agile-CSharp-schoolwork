@@ -1,0 +1,7 @@
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex03ExchangeDatapt2\Ch06Ex03ExchangeDatapt2\obj\Debug\Ch06Ex03ExchangeDatapt2.csprojAssemblyReference.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex03ExchangeDatapt2\Ch06Ex03ExchangeDatapt2\obj\Debug\Ch06Ex03ExchangeDatapt2.csproj.CoreCompileInputs.cache
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex03ExchangeDatapt2\Ch06Ex03ExchangeDatapt2\bin\Debug\Ch06Ex03ExchangeDatapt2.exe.config
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex03ExchangeDatapt2\Ch06Ex03ExchangeDatapt2\bin\Debug\Ch06Ex03ExchangeDatapt2.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex03ExchangeDatapt2\Ch06Ex03ExchangeDatapt2\bin\Debug\Ch06Ex03ExchangeDatapt2.pdb
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex03ExchangeDatapt2\Ch06Ex03ExchangeDatapt2\obj\Debug\Ch06Ex03ExchangeDatapt2.exe
+C:\Users\Blueh\Documents\Jeff's schoolwork\CISS201 AGILE\BeginningCSharp7\Ch06Ex03ExchangeDatapt2\Ch06Ex03ExchangeDatapt2\obj\Debug\Ch06Ex03ExchangeDatapt2.pdb
